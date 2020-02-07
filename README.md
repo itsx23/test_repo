@@ -25,8 +25,9 @@
 5.  To open git bash terminal:
 
     * Click on folder (do not open)
-    * use shortcut created for " New Terminal Tab at Folder " ( " control, option, command, t ". )
-    * and use " cd " command to change directory into selected folder
+    * Use shortcut created for " New Terminal Tab at Folder " ( " control, option, command, t ". )
+    * git clone using your web URL for example, " https://github.com/itsx23/test_repo.git "
+    * Then " cd " command to change directory into selected folder
     
 ```
     
