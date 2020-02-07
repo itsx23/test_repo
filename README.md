@@ -2,7 +2,7 @@
 
 ## Mac OS git terminal
 
-How to use git bash terminal on Mac OS
+### How to use git bash terminal on Mac OS
 
 ```
 1.  Open keyboard settings.
