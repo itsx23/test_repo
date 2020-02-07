@@ -23,8 +23,8 @@ How to use git bash terminal on Mac OS
 
 ```
 5.  To open git bash terminal
-    - Click on folder (do not open)
-    - use shortcut created for " New Terminal Tab at Folder " ( " control, option, command, t ". )
-    - and use " cd " command to change directory into selected folder
+    * Click on folder (do not open)
+    * use shortcut created for " New Terminal Tab at Folder " ( " control, option, command, t ". )
+    * and use " cd " command to change directory into selected folder
 ```
     
