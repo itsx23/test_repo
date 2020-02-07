@@ -5,15 +5,15 @@
 How to use git bash terminal on Mac OS
 
 ```
-1.  Open keyboard settings
+1.  Open keyboard settings.
 ```
 
 ```
-2.  Click Shortcuts
+2.  Click Shortcuts.
 ```
 
 ```
-3.  Scroll down to " New Terminal Tab at Folder " and click tick on checkbox
+3.  Scroll down to " New Terminal Tab at Folder " and click tick on checkbox.
 ```
 
 ```
@@ -22,7 +22,7 @@ How to use git bash terminal on Mac OS
 ```
 
 ```
-5.  To open git bash terminal
+5.  To open git bash terminal:
 
     * Click on folder (do not open)
     * use shortcut created for " New Terminal Tab at Folder " ( " control, option, command, t ". )
